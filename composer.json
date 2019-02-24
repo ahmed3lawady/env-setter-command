@@ -1,0 +1,20 @@
+{
+    "name": "ahmed3lawady/env-setter-command",
+    "description": "This package helps you to set env file attributes values by command line.",
+    "licenes": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed El-Awady",
+            "email": "cs.ahmedos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ahmed3lawady\\EnvSetter\\": "src"
+        }
+    }
+}
