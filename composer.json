@@ -8,13 +8,20 @@
             "email": "cs.ahmedos@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.0",
     "require": {
-        "php": ">=5.6.0"
+        "php": "^7.1"
     },
     "autoload": {
         "psr-4": {
             "Ahmed3lawady\\EnvSetter\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ahmed3lawady\\EnvSetter\\EnvSetterServiceProvider"
+            ]
         }
     }
 }
