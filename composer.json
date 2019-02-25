@@ -8,8 +8,6 @@
             "email": "cs.ahmedos@gmail.com"
         }
     ],
-    "version": "1.0.0",
-    "minimum-stability": "stable",
     "require": {
         "php": "^7.1"
     },
