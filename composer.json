@@ -1,7 +1,7 @@
 {
     "name": "ahmed3lawady/env-setter-command",
     "description": "This package helps you to set env file attributes values by command line.",
-    "licenes": "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ahmed El-Awady",
